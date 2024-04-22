@@ -5,26 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeyond-sw-camp%2Fbe04-4th-PI-MoodHolic.git&count_bg=%23006EFF&title_bg=%23767676&icon=keybase.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<h1 align="center">🌈 Introduce Our Team</h1>
-
-<div align="center">
-	
-> **팀명은 3.141592조 (PIE)** 로 무한대로(PI) 개발을 즐기며 무한대로 성장하고 있는 개발팀원들이 모여 '가치는 같이할 때 더 좋은 “가.치”가 된다. 라는 슬로건을 가지고 있습니다. 이번 프로젝트에서는 여러 가지 주제 중 회의를 통해 선정하고 각자가 맡은 부분을 책임감을 가지고 개발을 구현하는 협업 할 수 있는 팀워크를 보여주고 있습니다. 하나의 에러도 혼자가 아니라 팀원들과 머리를 맏대고 서로 믿고 의지하며 적극적인 의사소통을 통해 어떤 에러에도 굴복하지 않고 이겨내 개발할 수 있는 힘을 가지고 있으며 이번 프로젝트에서는 2주의 단기간동안 기획부터 프론트, 백, 서버 연동 등 개발의 전반적인 과정을 경험해보면서 그동안 배운 내용을 직접 사용해보면서 복습하는 기회도 가져보았습니다.
-</div></br>
-
-<h1 align="center">👥 Contact & Group</h1>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-thebadge&logo=Discord&logoColor=white" /></br>
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-thebadge&logo=Slack&logoColor=white" /></br>
-
-<img src="https://img.shields.io/badge/Github-181717?style=for-thebadge&logo=Github&logoColor=white" />
-</div>
-
-</br>
-
 <h1 align="center">👤 Members</h1>
 
 <h4 align="center">
@@ -37,46 +17,36 @@
 <h1 align="center">🛠️ Technology Stack</h1>
 
 <div align="center">
-	
+
+### ⚙️ Framework
+
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-thebadge&logo=React Native&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-thebadge&logo=Spring Boot&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-thebadge&logo=Vue.js&logoColor=white" />
+ 
 ### ⚙️ Front-End
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-thebadge&logo=Vue.js&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-thebadge&logo=React Native&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-thebadge&logo=HTML5&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-thebadge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-thebadge&logo=Chart.js&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS-1572B6?style=for-thebadge&logo=CSS&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=for-thebadge&logo=HTML&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-thebadge&logo=JavaScript&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-thebadge&logo=React Native&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-thebadge&logo=Vue.js&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Vuex-B7178C?style=for-thebadge&logo=Vuex&logoColor=white" />
 
 </br>
 
 ### ⚙️ Back-End
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-thebadge&logo=Spring Boot&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-thebadge&logo=Spring Security&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-thebadge&logo=Swagger&logoColor=white" />  &nbsp;&nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=for-thebadge&logo=MariaDB&logoColor=white" />  &nbsp;&nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=for-thebadge&logo=Redis&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JWT-FBBA00?style=for-thebadge&logo=JWT&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-FBBA00?style=for-thebadge&logo=JWT&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-thebadge&logo=MySQL&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OAuth 2.0-EB5424?style=for-thebadge&logo=OAuth 2.0t&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=for-thebadge&logo=Redis&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-thebadge&logo=Spring Boot&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring JPA Data-6DB33F?style=for-thebadge&logo=Spring JPA Data&logoColor=white" />  &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-thebadge&logo=Spring Security&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-thebadge&logo=Swagger&logoColor=white" />
+</br>
 
+### ⚙️ CI/CD
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-thebadge&logo=Docker&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-thebadge&logo=Jenkins&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-thebadge&logo=kubernetes&logoColor=white" />
 </br>
 
 ### ⚙️ Production
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-thebadge&logo=OpenAI&logoColor=white" />
-
-
-</br></br>
-
-### ⚙️ CI/CD
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-thebadge&logo=Docker&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-thebadge&logo=kubernetes&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-thebadge&logo=Jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-thebadge&logo=Apache Tomcat&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-thebadge&logo=Google Cloud&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenAI API-412991?style=for-thebadge&logo=OpenAI API&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenWeatherMap API-4285F4?style=for-thebadge&logo=OpenWeatherMap API&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/NPM-CB3837?style=for-thebadge&logo=NPM&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/SSL-721412?style=for-thebadge&logo=SSL&logoColor=white" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-thebadge&logo=Ubuntu&logoColor=white" />
 
 </div></br></br></br>
 
 <div align="center">
   
 ![스크린샷_2024-04-03_오후_ ovebg-preview (1)_animation](https://github.com/ThisDotE/InnerJoinUs/assets/149561287/839d399a-f74a-4d12-80c8-040cbfcc049d)
-
-</div>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F7C621&vCenter=true&multiline=true&random=false&width=438&height=52&lines=Welcome+We+are+Team+PI)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=085EF7&vCenter=true&random=false&width=438&height=70&lines=Mood+Holic!!)](https://git.io/typing-svg)
-</div>
 
 </br></br></br>
 
