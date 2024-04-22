@@ -26,64 +26,26 @@
 
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-thebadge&logo=Chart.js&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS-1572B6?style=for-thebadge&logo=CSS&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=for-thebadge&logo=HTML&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-thebadge&logo=JavaScript&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-thebadge&logo=React Native&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-thebadge&logo=Vue.js&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Vuex-B7178C?style=for-thebadge&logo=Vuex&logoColor=white" />
 
-</br>
-
 ### ⚙️ Back-End
 
 <img src="https://img.shields.io/badge/JWT-FBBA00?style=for-thebadge&logo=JWT&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-thebadge&logo=MySQL&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OAuth 2.0-EB5424?style=for-thebadge&logo=OAuth 2.0t&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=for-thebadge&logo=Redis&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-thebadge&logo=Spring Boot&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring JPA Data-6DB33F?style=for-thebadge&logo=Spring JPA Data&logoColor=white" />  &nbsp;&nbsp; <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-thebadge&logo=Spring Security&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-thebadge&logo=Swagger&logoColor=white" />
-</br>
 
 ### ⚙️ CI/CD
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-thebadge&logo=Docker&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-thebadge&logo=Jenkins&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-thebadge&logo=kubernetes&logoColor=white" />
-</br>
 
 ### ⚙️ Production
 
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-thebadge&logo=Apache Tomcat&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-thebadge&logo=Google Cloud&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenAI API-412991?style=for-thebadge&logo=OpenAI API&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenWeatherMap API-4285F4?style=for-thebadge&logo=OpenWeatherMap API&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/NPM-CB3837?style=for-thebadge&logo=NPM&logoColor=white" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/SSL-721412?style=for-thebadge&logo=SSL&logoColor=white" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-thebadge&logo=Ubuntu&logoColor=white" />
+</div></br>
 
-</div></br></br></br>
+# 🌅 안배운 기술 목록
+* Google Cloud - 클라우드에 이미지를 업로드하여 이미지 url만 관리할 수 있도록 함
+* V-Calendar - 달력 API로 메인 화면 (다이어리 달력)기능 구현
+* vue-chart - 통계, 수치를 표로 출력하기 위한 API
+* react native - 페이스북에서 만든 오픈소스 모바일 애플리케이션 프레임워크로 구현한 웹을 앱으로 구현
 
-<div align="center">
-  
-![스크린샷_2024-04-03_오후_ ovebg-preview (1)_animation](https://github.com/ThisDotE/InnerJoinUs/assets/149561287/839d399a-f74a-4d12-80c8-040cbfcc049d)
-
-</br></br></br>
-
-# 🌅 Mood Holic 소개
-
-### 👀 기획 배경
-> 현대 사회에서는 스트레스, 불안, 우울 등의 정신 건강 문제가 증가하고 있습니다. 이러한 문제에 대처하고 감정을 관리하는 것은 매우 중요합니다. 따라서 개인이 감정을 정리하고 관리하는데 도움을 주는 툴이 필요하다는 필요성이 있다고 생각했습니다. 또한 사용자들은 개인화된 서비스를 선호하고 자신의 감정 상태와 선호도에 맞춘 추천을 받는 것은 사용자 경험을 향상시키는데 도움이 되었던 경험을 가지고 이번 프로젝트를 기획하게 되었습니다.
-</br>
-
-### 💡 해결 컨셉
-
-- **일기 작성**: 사용자는 하루마다의 감정을 정리하면서 겪었던 어려움이나 배운 점 및 성장한 경험 등을 자유롭게 정리할 수 있습니다.
-- **GPT를 통한 결과 도출**: GPT 프롬프트를 통해 일기를 전달하여 회원의 기분 점수, 추천 컨텐츠(음식,음악,영화)를 전달받아 회원에게 해당 결과를 출력합니다.
-- **통계 분석**: 저장된 데이터들을 기반으로 한 회원에 대한 기분, 음식, 음악, 영화 취향 분석 등을 통계로 시각화 할 수 있습니다. (ex. 그래프)
-</br>
-
-### ✨ 기대 효과
-
-1. 감정 관리 및 정서적 안정: 사용자가 일기를 작성하면서 자신의 감정을 정리하고 이해할 수 있습니다. 일기 작성은 마음의 질서를 유지하고 정서적 안정을 도모하는데 도움이 됩니다.
-
-2. 개인 성장 및 자기 인식: 사용자가 어려움, 성장, 배운 점 등을 일기에 기록함으로써 자신의 개인적인 성장을 추적하고 인식할 수 있습니다. 이를 통해 더 나은 방향으로 나아갈 수 있는 인사이트를 얻을 수 있습니다.
-
-3. 개인화된 추천: GPT를 사용하여 일기 내용을 분석하고, 사용자의 감정 상태에 따라 적합한 음식, 음악, 영화 등을 추천할 수 있습니다. 이러한 개인화된 추천은 사용자가 편안함을 찾거나 감정을 회복하는 데 도움이 될 수 있습니다.
-
-4. 사용자 관심사 파악 및 서비스 개선: 사용자의 일기 내용을 통해 감정, 음식, 음악, 영화 취향 등을 분석함으로써 사용자의 관심사와 성향을 파악할 수 있습니다. 이를 통해 서비스를 개선하고 보다 맞춤화된 콘텐츠를 제공할 수 있습니다.
-
-5. 통계 분석을 통한 인사이트 도출: 저장된 데이터를 기반으로 한 통계 분석은 사용자들의 감정 변화, 취향 변화, 성장 과정 등을 이해하는 데 도움을 줄 수 있습니다. 이를 통해 트렌드 파악이나 사용자들에게 더 나은 서비스를 제공할 수 있는 인사이트를 도출할 수 있습니다.
-
-&nbsp;&nbsp;&nbsp;**=> 총체적으로, 이러한 시스템은 사용자들의 정서적 건강과 성장을 지원하고, 개인화된 서비스를 제공하여 보다 만족스러운 경험을 제공할 수 있습니다.**
-
-</br>
-
-### 📍 주요페이지 소개
-- **일기 작성**: 사용자는 하루마다의 감정을 정리하면서 겪었던 어려움이나 배운 점 및 성장한 경험 등을 자유롭게 정리할 수 있습니다.
-- **GPT를 통한 결과 도출**: GPT 프롬프트를 통해 일기를 전달하여 회원의 기분 점수, 추천 컨텐츠(음식,음악,영화)를 전달받아 회원에게 해당 결과를 출력합니다.
-- **통계 분석**: 저장된 데이터들을 기반으로 한 회원에 대한 기분, 음식, 음악, 영화 취향 분석 등을 통계로 시각화 할 수 있습니다. (ex. 그래프)
-</br>
+</br></br>
 
 # 🌅 추진 계획
 
@@ -100,36 +62,33 @@
 
 <br/>
 
-# 🌅 Mood Holic's System Architecture
+# 🌅 MoodHolic's System Architecture
 
 ![스크린샷 2024-04-19 오후 3 38 52](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/3f6df52b-e5b1-49ff-9fee-25bc0d7b9ddc)
-
-</br>
-
-# 🌅 안배운 기술 목록
-* Google Cloud - 클라우드에 이미지를 업로드하여 이미지 url만 관리할 수 있도록 함
-* V-Calendar - 달력 API로 메인 화면 (다이어리 달력)기능 구현
-* vue-chart - 통계, 수치를 표로 출력하기 위한 API
-* react native - 페이스북에서 만든 오픈소스 모바일 애플리케이션 프레임워크로 구현한 웹을 앱으로 구현
 
 </br>
 
 # 🌅 일정관리 (Sprint Kanban)
 
 ### ⏰ Sprint Kanban 1주차
+<details>
+<summary><h2>1주차</h2></summary>
+	
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/11c62c6d-9e3d-4671-91a7-f3dc4040cf54)
-
-</br>
+</details>
 
 ### ⏰ Sprint Kanban 2주차
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/ae2f3747-8762-4fbc-a350-996fc0f4df45)
+<details>
+<summary><h2>2주차</h2></summary>
 
+![image](https://github.com/Bodrami/Practice_Template/assets/149561287/ae2f3747-8762-4fbc-a350-996fc0f4df45)
+</details>
 </br>
 
-# 🌅 Mood Holic Story Board 
+# 🌅 Story Board 
 
 <details>
-<summary><h2>Story Board</h2></summary>
+<summary><h2>MoodHolic's Story Board</h2></summary>
 <div markdown="1">
 	
 ![InnerJoinUs_스토리-보드_wire-frame__기능구현된-것만_복사본](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/dcfd0ba0-5c5d-4ca6-9b35-903cc45636d7)
@@ -166,7 +125,6 @@
 ```
 </div>
 </details>
-</br>
 
 <details>
 <summary><h2>Mood.Holic.BE</h2></summary>
@@ -179,7 +137,6 @@
 ```
 </div>
 </details>
-</br>
 
 <details>
 <summary><h2>Mood.Holic.FE</h2></summary>
@@ -222,14 +179,18 @@
 # 🌅 DB Modeling (ERD, DDD, DDL, DML)
 
 <h2>🗂️ ERD</h2>
-	
+<details>
+<summary>ERD Cloud</summary>
+ 
 ![ERD](https://github.com/Bodrami/Practice_Template/assets/149561287/6484caa0-d971-4916-a3ce-e25ac9415492)
-</br>
+</details>
 
 <h2>🗂️ DDD</h2>
+<details>
+<summary>DDD 설계</summary>
 
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/1058f95c-04fc-4181-ad25-a2f4adb7a7e0)
-</br>
+</details>
 
 <h2>🗂️ DDL</h2>
 <details>
@@ -382,7 +343,7 @@ ALTER TABLE `comment`
 ADD CONSTRAINT `fk_diary_id5` FOREIGN KEY (`diary_id`)
 REFERENCES `diary`(`diary_id`);
 ```
-</details></br>
+</details>
 
 
 <h2>🗂️ DML</h2>
@@ -526,34 +487,44 @@ VALUES
 </br>
 
 # 🌅 개념 & 논리 Modeling
-
-<h2>🗄️ 개념 Modeling</h2>
+<details>
+<summary><h2>개념 Modeling</h2></summary>
 
 ![image](https://github.com/PI-Akatsuki/Mood.Holic.BE/assets/149561287/9ec3fc4c-bd5c-48b5-a1b5-1c0ad93c51cb)
 
-</br>
+</details>
 
-<h2>🗄️ 물리 Modeling</h2>
+<details>
+<summary><h2>물리 Modeling</h2></summary>
 
 ![image](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/549f6fe4-90f6-49f9-9133-5403a3edcb7e)
 
+</details>
 </br>
 
-# 🌅 Mood Holic Menu 구조도
+# 🌅 Menu 구조도
+<details>
+<summary><h2>MoodHolic's Menu 구조도</h2></summary>
+
 ![image](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/be7b1c1d-8c00-48de-b97a-8efded48fa66)
 
-
+</details>
 </br>
 
 # 🌅 Wire Frame
-### Mood Holic's Wire Frame
+<details>
+<summary><h2>MoodHolic's Wire Frame</h2></summary>
 
 ![wireframe](https://github.com/Bodrami/Practice_Template/assets/149561287/663043e3-76de-451b-9e0a-443f577d39c4)
 
+</details>
 </br>
 
 # 🌅 API 명세서
 
+<details>
+<summary><h2>MoodHolic's API 명세서</h2></summary>
+	
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/55505a91-a533-427d-bd90-8ec3700420ed)
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/de8d83ff-5a5f-4db5-8286-9c26fa03362e)
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/4237f314-89e5-4201-bf3d-01f13fb19147)
@@ -564,12 +535,13 @@ VALUES
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/1eea62c5-0e4a-4163-8105-cefc9040179a)
 ![image](https://github.com/Bodrami/Practice_Template/assets/149561287/165bb337-6681-4594-8738-4842d89bf8ac)
 
+</details>
 </br>
 
-# 🌅 Mood Holic 배포문서
+# 🌅 MoodHolic 배포문서
 
 <details>
-<summary>MoodHolic's Build 및 배포 문서</summary>
+<summary><h2>MoodHolic's Build 및 배포 문서</h2></summary>
 
 ![002](https://github.com/Bodrami/Practice_Template/assets/149561287/f5aba2be-a183-484a-b3cd-f57437269f74)
 
@@ -613,9 +585,12 @@ VALUES
 
 # 🌅 CI/CD 기능 명세서
 
+<details>
+<summary><h2>MoodHolic's CI/CD 기능 명세서</h2></summary>
+
 ![image](https://github.com/PI-Akatsuki/MOOD.HOLIC/assets/149561287/3a1a04a0-3757-4d97-a8ed-aa1fd2957617)
 
-
+</details>
 </br>
 
 # 🌅 추후 고도화 기능
@@ -627,15 +602,3 @@ VALUES
 * TODO 리스트: 사용자가 작업 항목들을 관리할 수 있는 TODO 리스트를 구현
 * 마이페이지/내정보 수정: 사용자가 자신의 개인 정보를 쉽게 업데이트하고 관리할 수 있는 기능을 개선하고 사용자 인터페이스를 간소화
 * 다이어리 템플릿 체험 및 미리보기: 사용자 회원가입 전 웹/앱에 대한 이해를 돕기 위해 사용된 다이어리 예시나 체험하기 기능
-
-</br>
-
-# 🌅 Acatsuki's 회고
-
-| **이름**   | **회고** |
-|:--------:|:------:|
-| **김재현**  | 이번 프로젝트는 그동안 배웠던 것을 모두 이용하되 백엔드는 JPA로 개발하고, 프론트앤드는 vue로 개발하여 연동하고, CI/CD를 자동으로 해주는 젠킨스와 쿠버네티스등을 적용시켜보는 프로젝트였습니다. 주제를 선정하고 DB모델링 등 그동안 배웠던 과정을 다시 해보며 복습할 수 있었던 좋은 기회였습니다. 운이 좋게도 이번 프로젝트에서 제가 CI/CD부분을 맡게되었는데, 한번도 해보지 않아 걱정이 많이 되기는 했지만 한편으로는 설레는 마음도 없지않아 있었습니다. 예상했던대로 혼자 해보니 계속 오류가 나고, 적용이 안되는 문제가 발생했었으나, 과정을 다시 복습하고 어떤식으로 왜 작동하는지를 파악하자 문제가 하나씩 해결되기 시작했습니다. 이 경험을 통해 무엇이든 그냥 코드를 따라치기보단 여기서 이걸 왜 적용해야하는지등 쓰는 이유를 아는 것이 훨씬 중요하단 사실을 알게 되었습니다. 다음에 할 프로젝트에는 젠킨스 와 쿠버네티스 대신 aws를 사용해서 해보고 싶어졌고, 단순히 dockerhub에만 image를 올리고 수동으로 restart해주는것이 아니라, 강사님이 말씀하신 argo등을 써서 dockerhub에 푸시된것을 감지해 자동으로 배포 할 수 있는 환경을 구축해보고 싶어졌습니다. |
-| **박경덕**  | 이번 프로젝트에서 저는 여러 가지 새로운 기술들을 접하고 학습하는 기회를 가졌습니다. 특히 Oauth 2.0, OpenAI API, Redis-server, React Native 등의 기술이 프로젝트의 핵심 요소였습니다. 이러한 기술들을 실제로 적용해보면서 많은 것을 배우고 성장할 수 있었습니다. 저의 철학은 "할 수 있다고 생각하면 할 것이고, 못한다고 생각하면 못 할 것"이라는 것입니다. 이러한 마인드셋을 가지고 어려운 상황에서도 해결책을 찾아내는 데 중점을 두었습니다. 프로젝트를 통해 기술적인 지식뿐만 아니라, 문제 해결 능력도 크게 향상되었습니다. 새로운 기술을 배우는 과정에서 발생하는 다양한 문제들을 해결하면서, "안된다고 생각하면 못할 것"이라는 마인드셋을 버리고 "안 되면 되게 해야 한다"는 적극적인 자세를 배울 수 있었습니다. 이번 프로젝트는 저에게 많은 기술적 도전과 함께 심리적 성장의 기회를 제공했습니다. 저는 기술적 한계를 넘어서는 것뿐만 아니라, 그 과정에서 발생하는 문제들에 대해 적극적으로 대처하는 방법을 배웠습니다. 앞으로도 이러한 경험을 바탕으로 끊임없이 배우고 성장하는 개발자가 되기 위해 노력할 것입니다. |
-| **신동호**  | 이번 프로젝트에서는 Vue3,HTML,CSS와 라우팅 기술을 활용하며 프론트엔드 측면에서 많이 도전하고 한발자국 전진한 느낌이 들었습니다. 다만 반응형 css에서 많이 답답했고, 전역css를 import하는 과정에서 전역변수 충돌이 일어나 애를 많이 먹어 답답했습니다. 클래스명이 중복되면 이렇게 충돌이 날 수 있다는 것을 깨닫고 이를 통해 앞으로 내가 가야할 길에 있는 돌맹이를 하나 치운 것 같은 뿌듯함이 들었었고, 프로젝트 초반에는 mariadb를 활용해 DDL 구문과 DML을 작성해 이후에 프론트 작업을 할 때는 불필요하게 중복되는 img나 icon을 수정 삭제하여 통일시키는 과정을 통해 디렉토리 구조나 파일에 대해서 통일성이 있다면 더 좋은 개발 환경이 된다는 경험을 했보았습니다. 개인적으로 아쉬운 건 이번 프로젝트에서는 백엔드 개발을 거의 하지 못해서 다음 프로젝트에서는 많이 공부하며 백엔드와 프론트엔드를 둘 다 맡고 싶은 마음이 생겼습니다. |
-| **이드보라** | 프로젝트를 통해 그 동안 배웠던 Front-end의 여러가지 태그를 사용하면서 피그마로 디자인했던 화면들이 동적으로 움직이는걸 직관적으로 보여지니 흥미로웠고, 백과 연동을 통해 DB정보를 가져와 쌓아보면서 Back-end와 Devops 에 대한 전반적인 내용을 복습하고 기능을 구현하면서 실제로 운영되는 웹페이지처럼 고도화시켜보고 싶다는 마음이 커졌습니다. 팀원들과 파트를 분배하고 2주동안 구현해내는데 어려움이 있었습니다. 주로 맡은 프론트에서는 파일구조가 바뀌거나 파일명이 수정되어 서버가 돌아가지 않거나 백 연동이 쉽지 않았지만 포기하지 않고 팀원들과 에러 문제점을 찾아보고 끝까지 함께 구현할 수 있어 뿌듯하기도 하고 깨달은 점도 있었습니다. 프론트를 맡았다고 백도 놓치지 말아야겠다고 생각이 들었고, 프로젝트의 전체적인 흐름을 이해할 수 있도록 부족한 부분을 찾아 따로 코드로 연습하는 습관을 들여야겠다는 생각이 들었습니다. 또한 프로젝트를 하나씩 거듭할수록 저에 대한 객관화가 점점 고도화되는 느낌을 받으면서 내면적으로도 성장해가고 있다는 느낌을 받았으며, 개발에 있어서 나는 어떤 것이 부족하고 어떤 부분을 잘하고 있는지 생각정리를 할 수 있었습니다. 더 나아가 다음 프로젝트를 들어가기 전, 이론적으로 복습이 필요한 부분이나 지금까지 구현했던 프로젝트의 기능을 이해하고 어떻게 적용이 되는지에 대한 이해가 필요하다고 생각했고, 비록 남들과 시작한 출발점은 다르지만 결과적으로 비교하지 않고 그 부족한 시간을 채우는 것에 집중하고 제 자신을 믿고 좌절보단 이겨내는 힘을 기르고 이번 프로젝트를 통해 경험할 수 있어 한층 더 성장할 수 있었던 기회였던 것 같았습니다. |
-| **이현우**  | 프로젝트를 하면서 백엔드와 프론트엔드 양쪽에서 맡은 부분이 있어서 정말 많은 것을 배우고 경험했습니다. 백엔드에서는 데이터 파싱, 다이어리, 통계, 이미지, 추천 시스템을 다루었는데, 이 과정에서 예상치 못한 어려움과 에러들을 마주했습니다. 특히 데이터 파싱과 통계 처리 부분에서는 여러 가지 문제에 직면하여 많은 고민을 하게 되었습니다. 데이터 파싱은 사용자로부터 입력된 데이터를 읽고 ChatGPT에 전송하여 응답받은 내용을 파싱하는 것으로 이 과정에서 예기치 못한 데이터 형식이나 누락된 데이터 등으로 인한 에러가 발생했습니다. 이러한 문제를 해결하기 위해 데이터 유효성 검사와 예외 처리를 더 세밀하게 처리하였습니다. 통계 처리 부분에서는 다양한 데이터를 분석하고 시각화하는 과정에서 많은 어려움을 겪었습니다. 어떤 통계 지표를 선택할지, 어떻게 시각화를 할 지 등에 대한 고민이 많았습니다. 기존에 다뤄보지 않은 것들을 활용하면서 저에게 많은 경험이 된 것 같습니다. |
