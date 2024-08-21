@@ -1,4 +1,7 @@
-![001](https://github.com/Bodrami/Practice_Template/assets/149561287/c8f36c21-0cdc-406c-a842-00768ee2980c)
+<div align="center">
+	
+![image](https://github.com/user-attachments/assets/137ef75f-f186-4a55-a022-1457479108bb)
+</div>
 
 <div align="right">
 
