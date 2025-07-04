@@ -545,8 +545,12 @@ VALUES
 
 <details>
 <summary><h2>MoodHolic's API 명세서</h2></summary>
-	
-<img src="https://github.com/user-attachments/assets/b9200387-84ae-43ae-9c67-c9b48c2c2a49"/>
+<img src="https://github.com/user-attachments/assets/5a8f34e2-843f-4046-b5f0-9335775f7a8e"/>
+<img src="https://github.com/user-attachments/assets/ac65f6dd-8be3-4fbc-8c73-e01ed5c43c1d"/>
+<img src="https://github.com/user-attachments/assets/cda8907a-3d46-49f3-bd49-cbe51ec6db5b"/>
+<img src="https://github.com/user-attachments/assets/69d49483-07c9-49e2-9001-26f81f2c423f"/>
+<img src="https://github.com/user-attachments/assets/e3c8175c-f0c0-4de3-840b-cb954911c384"/>
+
 </details>
 </br>
 
@@ -555,44 +559,7 @@ VALUES
 <details>
 <summary><h2>MoodHolic's Build 및 배포 문서</h2></summary>
 
-![002](https://github.com/Bodrami/Practice_Template/assets/149561287/f5aba2be-a183-484a-b3cd-f57437269f74)
-
-![003](https://github.com/Bodrami/Practice_Template/assets/149561287/24cb0dd5-2e02-46bb-b660-10bb60a5e9e5)
-
-![004](https://github.com/Bodrami/Practice_Template/assets/149561287/e8259811-97b3-4b5f-9046-28634dc7a212)
-
-![005](https://github.com/Bodrami/Practice_Template/assets/149561287/849c7ce9-5cea-409c-913e-ba4e24a6c341)
-
-![006](https://github.com/Bodrami/Practice_Template/assets/149561287/e595a949-abe4-46f4-9b26-5a49a48fd956)
-
-![007](https://github.com/Bodrami/Practice_Template/assets/149561287/54443273-cfdd-45b1-8c73-6152f573c394)
-
-![008](https://github.com/Bodrami/Practice_Template/assets/149561287/db3fdba2-2993-41e2-8425-bd193bcff73f)
-
-![009](https://github.com/Bodrami/Practice_Template/assets/149561287/867f6210-a8be-4c8c-9fc3-70b0c8ab36d1)
-
-![010](https://github.com/Bodrami/Practice_Template/assets/149561287/b2dbf151-c30b-4a04-8f07-ef81401b5f7e)
-
-![011](https://github.com/Bodrami/Practice_Template/assets/149561287/a7894a31-656a-475b-8d66-8a0337634b78)
-
-![012](https://github.com/Bodrami/Practice_Template/assets/149561287/63a22fd3-2bc3-495d-9437-5c98ba4ed2ab)
-
-![013](https://github.com/Bodrami/Practice_Template/assets/149561287/ab1f5b0a-9e26-4ebc-b63e-1842b7106a3c)
-
-![014](https://github.com/Bodrami/Practice_Template/assets/149561287/111cf134-9c9b-4b7a-8fbf-42ce20a43a0d)
-
-![015](https://github.com/Bodrami/Practice_Template/assets/149561287/2cd8d404-d8e1-4fb9-8dd3-06f689706f15)
-
-![016](https://github.com/Bodrami/Practice_Template/assets/149561287/087d4224-4899-41aa-bb2f-6765482f7f1f)
-
-![017](https://github.com/Bodrami/Practice_Template/assets/149561287/e79c46f0-d9f0-4299-9c66-571ae115b27e)
-
-![018](https://github.com/Bodrami/Practice_Template/assets/149561287/0105f573-7f4c-453f-a33d-856e7a3cb607)
-
-![019](https://github.com/Bodrami/Practice_Template/assets/149561287/d78ed86f-674b-4528-becd-e25a8534d153)
-
-![020](https://github.com/Bodrami/Practice_Template/assets/149561287/04ea2ac9-a63d-47ee-9e18-c48196e4ab38)
-
+<img src="https://github.com/user-attachments/assets/b9200387-84ae-43ae-9c67-c9b48c2c2a49"/>
 </details></br>
 
 # 🌅 CI/CD 기능 명세서
