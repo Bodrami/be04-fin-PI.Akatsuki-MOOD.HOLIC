@@ -95,14 +95,14 @@
 <details>
 <summary><h2>1주차</h2></summary>
 	
-<img src="https://github.com/Bodrami/Practice_Template/assets/149561287/11c62c6d-9e3d-4671-91a7-f3dc4040cf54"/>
+<img src="https://github.com/user-attachments/assets/06293ed6-bc1c-4d38-82b6-912cbe107516"/>
 </details>
 
 ### ⏰ Sprint Kanban 2주차
 <details>
 <summary><h2>2주차</h2></summary>
 
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/ae2f3747-8762-4fbc-a350-996fc0f4df45)
+<img src="https://github.com/user-attachments/assets/e01fba58-dd95-4ea2-96f5-cde3da4d7934"/>
 </details>
 </br>
 
@@ -203,14 +203,14 @@
 <details>
 <summary>ERD Cloud</summary>
  
-![ERD](https://github.com/Bodrami/Practice_Template/assets/149561287/6484caa0-d971-4916-a3ce-e25ac9415492)
+<img src="https://github.com/user-attachments/assets/31ec4294-4af0-4fe5-b5cc-2fef3ecf220a"/>
 </details>
 
 <h2>🗂️ DDD</h2>
 <details>
 <summary>DDD 설계</summary>
 
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/1058f95c-04fc-4181-ad25-a2f4adb7a7e0)
+<img src="https://github.com/user-attachments/assets/39c09ac5-000e-472c-923b-c4ac68c4ab5b"/>
 </details>
 
 <h2>🗂️ DDL</h2>
@@ -546,16 +546,7 @@ VALUES
 <details>
 <summary><h2>MoodHolic's API 명세서</h2></summary>
 	
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/55505a91-a533-427d-bd90-8ec3700420ed)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/de8d83ff-5a5f-4db5-8286-9c26fa03362e)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/4237f314-89e5-4201-bf3d-01f13fb19147)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/69fef2a4-61bb-4a05-a689-42a162c85b11)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/e5775913-aea7-4c08-b470-af949459292b)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/ba14361e-9af2-4852-84d7-47815867f00e)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/414158fa-67f8-48a6-bad2-54a5589f6182)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/1eea62c5-0e4a-4163-8105-cefc9040179a)
-![image](https://github.com/Bodrami/Practice_Template/assets/149561287/165bb337-6681-4594-8738-4842d89bf8ac)
-
+<img src="https://github.com/user-attachments/assets/b9200387-84ae-43ae-9c67-c9b48c2c2a49"/>
 </details>
 </br>
 
