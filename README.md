@@ -515,12 +515,12 @@ VALUES
 
 </details>
 
-<details>
+<!-- <details>
 <summary><h2>물리 Modeling</h2></summary>
 
 ![image](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/549f6fe4-90f6-49f9-9133-5403a3edcb7e)
 
-</details>
+</details> -->
 </br>
 
 # 🌅 Menu 구조도
@@ -528,15 +528,6 @@ VALUES
 <summary><h2>MoodHolic's Menu 구조도</h2></summary>
 
 ![image](https://github.com/beyond-sw-camp/be04-4th-PI-MoodHolic/assets/149561287/be7b1c1d-8c00-48de-b97a-8efded48fa66)
-
-</details>
-</br>
-
-# 🌅 Wire Frame
-<details>
-<summary><h2>MoodHolic's Wire Frame</h2></summary>
-
-![wireframe](https://github.com/Bodrami/Practice_Template/assets/149561287/663043e3-76de-451b-9e0a-443f577d39c4)
 
 </details>
 </br>
